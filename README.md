@@ -1,4 +1,5 @@
 ### SlowFood (Sinatra)
+Access the site [here](https://spice-it-up.herokuapp.com/). 
 
 Our client is a Restaurant owner that needs an website where he can list his menu and allow visitors to place orders.
 
@@ -11,8 +12,6 @@ The first version of the application has limited functionality
 * Each Dish is a Starter, Main course or Dessert
 * Visitors of the site can add Dishes to an Order
 * Order need to calculate a Total price and a Pick up time (30 minutes)
-
-Nothing else should be considered or implemented.
 
 #### Tools
 * Sinatra as web framework
